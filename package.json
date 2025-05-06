@@ -1,6 +1,8 @@
 {
   "name": "jwt-server",
   "version": "1.0.0",
-  "main": "index.js",
-  "license": "MIT"
+  "scripts": {
+    "build": "echo 'no build needed'",
+    "start": "node index.js"
+  }
 }
