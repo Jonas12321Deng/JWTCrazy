@@ -1,5 +1,5 @@
 module.exports = (req, res) => {
   res.status(200).json({
-    jwt: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjdXN0b21QYXJhbWV0ZXIiOiJxd2VyMTIzNCIsImV4cCI6MTc1NjIwMDc3NiwidXNlcklkIjoxNzM0NjkwfQ.hlE-4g24Wug6DC3T-DB2fSaYAbxFmaI5JymzzWHZkCw"
+    jwt: "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJjdXN0b21QYXJhbWV0ZXIiOiJxd2VyMTIzNCIsImV4cCI6MTc1NjgwNzk1MiwidXNlcklkIjoxNzM0NjkwfQ.C5BFRdW0KPvYJsu4OenwqipyChPXd3J8V_RZybG5bJw"
   });
 };
